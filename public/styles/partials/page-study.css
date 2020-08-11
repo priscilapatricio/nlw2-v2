@@ -136,11 +136,16 @@
     }
 
 .page-header {
-    height: 340px;
+    height: 64px;
 }
 
 .page-header  .top-bar-container{
     max-width: 1100px;
+    color: var(----color-primary-dark);
+}
+
+.header-content {
+    height: 320px;
 }
 
 .page-header .header-content{
@@ -151,6 +156,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color: var(----color-primary);
 }
 
 .page-header .header-content strong{
