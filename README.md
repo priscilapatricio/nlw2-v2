@@ -17,10 +17,10 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src=".github/proffyv2.png" width="100%">
 </p>
 
-## Curso Rocketseat (Plataforma de educação em tecnologia) - NLW2
+## Curso Rocketseat (Plataforma de educação em tecnologia) - NLW2 - Versão 2.0
 
 ## 🚀 Tecnologias
 
@@ -36,9 +36,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Proffy é uma plataforma de estudos online, aonde professores podem oferecer o seus serviços e alunos encontram professores de diversas matérias atividades.
 
+A versão 2.0 consta com atualizações no layout das páginas e inclusão de página de confirmação de cadastro de professor.
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como contribuir
 
