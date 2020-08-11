@@ -1,6 +1,6 @@
 <h1 align="center">
     <img alt="Rocketseat" title="Rocketseat" src=".github/rocketseat.png" width="60px" />
-    <img alt=" title=" src=".github/Logo.png" width="190px" />
+    <img alt=" title=" src=".github/logo.png" width="190px" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffyv2.png" width="100%">
+  <img alt="Proffy" src=".github/proffy.png" width="100%">
 </p>
 
 ## Curso Rocketseat (Plataforma de educação em tecnologia) - NLW2 - Versão 2.0
