@@ -40,7 +40,7 @@ A versão 2.0 consta com atualizações no layout das páginas e inclusão de p�
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/XUUQD2R3htg7gfwrc7lhnw/Proffy_Web). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como contribuir
 
